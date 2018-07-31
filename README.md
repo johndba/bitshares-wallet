@@ -3,7 +3,7 @@
  
 BitShares itself is not a company, it’s a Decentralized Autonomous Community (DAC) of friendly FinTech people of all ages wanting freemarket solutions to secure life, liberty and property for all. BitShares software uses the Delegated Proof Of Stake (DPOS) consensus protocol which cannot be blocked, taken down or centralized by asic or quantum computing hardware. 
  
-Send any amount.. anywhere.. for just a few cents.. and in only 3 seconds!
+
  
 * Works with all Smartcoin enabled Point Of Sale (POS) systems at merchants worldwide 
 * Absolute Security; BitShares blockchain based, End-to-End Encryption, BrainKey, multi-signature account permissions, auto-encrypted Backups, auto-close, auto-timeout and PIN verifications
@@ -87,24 +87,6 @@ Send any amount.. anywhere.. for just a few cents.. and in only 3 seconds!
 7. Create ad-hoc build 
 8. Install the .ipa file to your iOS device
 
-## Pleeeeease Donate 
+Many Thanks
 
-Please consider donating to the BitShares Wallet project so the Developers can afford to keep this wallet secure, bug free, ad free and constantly improving. (BTS account: bitshares-munich) 
 
-Thank you! :) 
-
-## BitShares Munich 
-
-* http://BitShares-Munich.de 
-* http://vk.com/BitSharesMunich 
-* http://meetup.com/BitShares-Munich (meet us in person!)
-* http://facebook.com/BitSharesMunich 
-* http://pinterest.com/BitSharesMunich 
-* http://youtube.com/BitSharesMunich-de (explanation videos too!)
-* http://google.com/+BitSharesMunich-de 
-* http://xing.com/companies/BitSharesMunich 
-* http://linkedin.com/company/BitShares-Munich 
- 
-## FAQ, Technical Support, Bug Reports and Features requests 
- 
-http://bitsharestalk.org 
