@@ -1,18 +1,5 @@
-# BitShares Wallet
-<img src="http://i.imgur.com/9RtNJuy.png" width="200" align="right">
-Cryptocurrency volatility is now a thing of the past. BitShares’ Smartcoins are tokens that are market-pegged to individual fiat currencies like the Dollar, Euro, Yuan and assets like Businesses, Gold and Oil. Thousands of investors, savers, traders and employers now use Smartcoins to buy and sell goods and services globally. 
- 
-No bank account? No problem. The unbanked and underbanked can now buy, sell and use Smartcoins locally with anyone, or utilize one of the many Exchanges who will convert your fiat into Smartcoins and back again if needed. CCEDK.com, Poloniex, Bittrex, BTC38 and Yunbi just to name a few. 
- 
-Merchants accepting Smartcoins say Hello to new customers!
+# BitShares Graphene Wallet
 
-1. No recurring or percentage based fees
-2. Total transaction fee is just a few cents
-3. Identity Theft and Chargebacks are impossible
-4. Much faster than cash, credit or debit (PIN) card networks
-5. Secured by the encrypted, fraud-proof BitShares blockchain
-
-It’s like online banking but without any banks! 
  
 BitShares itself is not a company, it’s a Decentralized Autonomous Community (DAC) of friendly FinTech people of all ages wanting freemarket solutions to secure life, liberty and property for all. BitShares software uses the Delegated Proof Of Stake (DPOS) consensus protocol which cannot be blocked, taken down or centralized by asic or quantum computing hardware. 
  
